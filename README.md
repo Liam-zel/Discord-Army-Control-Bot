@@ -1,1 +1,3 @@
-# Discord-Army-Control-Bot
+# Discord Army Control Bot
+
+gonna dd this in later
